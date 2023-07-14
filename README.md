@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlirezaNezami96
 - 👀 I’m interested in Android Development with native langs Java/Kotlin
-- 🌱 I’m currently learning JetPack Compose, Kotlin CoRoutines 
+- 🌱 I have deep knowldege of Jetpack Compose, Kotlin Coroutines 
 - 💞️ I’m looking to collaborate on open source projects to improve my knoledge
 - 📫 How to reach me: alireza.nezami75@gmail.com
 
